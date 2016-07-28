@@ -4,7 +4,7 @@ A list of [DKAN](http://nucivic.com/dkan) sites around the world
 ## Multinational
 | Organization        | URL           |
 | ------------- | ------------- |
-| United Nations (Open Data System Inventory)      | [unog.ch/web/hlcm/inventory](http://www3.unog.ch/web/hlcm/inventory/) |
+| United Nations (Open Data System Inventory)      | [data.un.org](http://data.un.org/) |
 | The World Bank      | [climatesmartplanning.org](http://climatesmartplanning.org) |
 | Ebola Data      | [eboladata.org](http://eboladata.org/) |
 
